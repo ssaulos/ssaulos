@@ -1,6 +1,6 @@
 ### Olá eu sou o Saulo !!
 
-Here are some ideas to get you started:
+
 
 - 🔭 nao trabalho na area ainda..
 - 🌱 estudando analise e desenvolvimento de sistemas
